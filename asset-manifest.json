@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/css/main.70f80b24.css",
-    "main.js": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/js/main.922effa8.js",
-    "static/js/787.e659ce8a.chunk.js": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/js/787.e659ce8a.chunk.js",
-    "static/media/FontsFree-Net-France.ttf": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/media/FontsFree-Net-France.00f5caf27c9800c9c899.ttf",
-    "index.html": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/index.html",
-    "main.70f80b24.css.map": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/css/main.70f80b24.css.map",
-    "main.922effa8.js.map": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/js/main.922effa8.js.map",
-    "787.e659ce8a.chunk.js.map": "https://github.com/jjayaprabha04/MeetMeReactOutput.git/static/js/787.e659ce8a.chunk.js.map"
+    "main.css": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/css/main.716d1cc4.css",
+    "main.js": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/js/main.45963752.js",
+    "static/js/787.e659ce8a.chunk.js": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/js/787.e659ce8a.chunk.js",
+    "static/media/FontsFree-Net-France.ttf": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/media/FontsFree-Net-France.00f5caf27c9800c9c899.ttf",
+    "index.html": "https://jjayaprabha04.github.io/MeetMeReactOutput/index.html",
+    "main.716d1cc4.css.map": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/css/main.716d1cc4.css.map",
+    "main.45963752.js.map": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/js/main.45963752.js.map",
+    "787.e659ce8a.chunk.js.map": "https://jjayaprabha04.github.io/MeetMeReactOutput/static/js/787.e659ce8a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.70f80b24.css",
-    "static/js/main.922effa8.js"
+    "static/css/main.716d1cc4.css",
+    "static/js/main.45963752.js"
   ]
 }
